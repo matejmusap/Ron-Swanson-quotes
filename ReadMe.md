@@ -1,1 +1,4 @@
-Simple app where I make API request in four different ways.
+#Use
+
+Simple app
+Ron Swanson random quotes
