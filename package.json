@@ -1,0 +1,8 @@
+{
+  "name": "ron-swanson-quotes",
+  "version": "1.0",
+  "description": "Simple app where I make API request in four different ways.",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
